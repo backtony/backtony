@@ -10,7 +10,8 @@
 + 수상  
   - 제 7회 세종대학교 SW AI 융합 경시대회 3등 (2020.12)
 + 관심분야
-  - 웹, 백엔드
+  - WEB, Back-end
 + 주 사용 언어
-  - Python, Java
+  - Algorithm : Python
+  - Back-end : Java, Spring
   
