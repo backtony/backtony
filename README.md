@@ -16,4 +16,4 @@
   - Algorithm : Python
   - Back-end : Java, Spring
 + 코딩 테스트
-  - SW 마에스트로 1,2 차 합격 (2021.03)
+  - SW 마에스트로  (2021.03)
