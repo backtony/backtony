@@ -15,6 +15,7 @@
   - WEB, Back-end
 + 주 사용 언어
   - Algorithm : Python
-  - Back-end : Java, Spring
+  - Back-end : Java, Spring, JPA, Querydsl
+  - DataBase : MySQL
 + 코딩 테스트
   - SW 마에스트로 최종 합격 (2021.03)
