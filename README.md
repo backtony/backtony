@@ -10,7 +10,8 @@
 
 ### ☎ Contact & Channel
 + Email | cjs1863@gmail.com
-+ Blog | [https://backtony.github.io/](https://backtony.github.io/)
++ Blog | <a href="https://backtony.github.io/" target="_blank">https://backtony.github.io/</a>
+
 
 ### ✏ 학력 
 + 수원대학교 전기공학과 (2016 ~ 2016.12)
