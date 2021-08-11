@@ -1,4 +1,8 @@
-# 몰입을 즐기는 개발자, Backtony 입니다. 👋
+<div align="center">
+ <img src="https://github.com/backtony/backtony.github.io/blob/master/assets/img/readmelogo.gif" alt="my-logo" height="140" width="1000">
+</div>
+
+
 
 
 ## About Me
@@ -57,3 +61,7 @@
 
 ## 🚩 코딩 테스트
   - SW 마에스트로 최종 합격 (2021.03) -> 12기 연수생으로 활동중
+
+
+
+# 몰입을 즐기는 개발자, Backtony 입니다. 👋
