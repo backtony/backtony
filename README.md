@@ -30,15 +30,27 @@
 
 
 ## 🛠 Skills
+### Backend
++ Java
++ Spring Boot, Spring MVC, Spring Data JPA
++ JPA, Querydsl
++ Junit5, Mockito
++ Gradle
++ IntelliJ, Visual Studio Code
++ Git
 
+### DevOps
++ AWS EC2, S3, RDS, CodeDeploy
++ MySQL, MariaDB
++ Jenkins, Travis CI
++ Docker
 
+### Collaboration
++ Jira
 
-+ 관심분야
-  - WEB, Back-end
-+ 주 사용 언어
-  - Algorithm : Python
-  - Back-end : Java, Spring, JPA, Querydsl
-  - DataBase : MySQL(MariaDB)
+### Algorithm
++ Python
+
 
 <br>
 
