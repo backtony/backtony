@@ -13,8 +13,9 @@
 + 현재는 좋은 기회가 닿아 SW 마에스트로 12기로 활동 중에 있습니다.
 
 ### ☎ Contact & Channel
-+ Email | cjs1863@gmail.com
++ Email | <a href="mailto:cjs1863@gmail.com" target="_blank">cjs1863@gmail.com</a>
 + Blog | <a href="https://backtony.github.io/" target="_blank">https://backtony.github.io/</a>
++ Instagram |  <a href="https://www.instagram.com/junseong_ch/" target="_blank">https://www.instagram.com/junseong_ch/</a>
 
 
 ### ✏ 학력 
@@ -24,7 +25,7 @@
   - 2학년 1학기 학과 수석, 2학기 수석  
 + San Diego State University 전공 연수 (2020.1 ~ 2020.2)  
 + 세종대학교 컴퓨터공학과 (2021.2 ~ )
-  - 국가이공계장학생 선발(2021.5)
++ 국가이공계장학생 선발(2021.5)
 
 
 
