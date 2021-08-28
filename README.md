@@ -46,7 +46,7 @@
 + Git
 
 ### DevOps
-+ AWS EC2, S3, RDS, CodeDeploy
++ AWS EC2, S3, RDS, CodeDeploy, VPC, Auto Scaling, Load Balancer
 + MySQL, MariaDB
 + Jenkins, Travis CI
 + Docker
