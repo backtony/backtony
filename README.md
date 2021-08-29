@@ -38,6 +38,7 @@
 ## 🛠 Skills
 ### Backend
 + Java
++ Redis
 + Spring Boot, Spring MVC, Spring Data JPA
 + JPA, Querydsl
 + Junit5, Mockito
