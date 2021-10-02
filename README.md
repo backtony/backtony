@@ -48,7 +48,7 @@
 
 ### DevOps
 + AWS EC2, S3, RDS, CodeDeploy, VPC, Auto Scaling, Load Balancer, CloudWatch
-+ MySQL, MariaDB
++ MySQL
 + Jenkins, Travis CI
 + Docker
 
