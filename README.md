@@ -47,7 +47,7 @@
 + Git
 
 ### DevOps
-+ AWS EC2, S3, RDS, CodeDeploy, VPC, Auto Scaling, Load Balancer, CloudWatch
++ AWS EC2, S3, RDS, CodeDeploy, VPC, Auto Scaling, Load Balancer, CloudWatch, Route 53
 + MySQL
 + Jenkins, Travis CI
 + Docker
