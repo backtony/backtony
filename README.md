@@ -42,6 +42,7 @@
 + Spring Boot, Spring MVC, Spring Data JPA
 + JPA, Querydsl
 + Junit5, Mockito
++ Swagger, REST docs
 + Gradle
 + IntelliJ, Visual Studio Code
 + Git
