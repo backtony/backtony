@@ -59,6 +59,13 @@
 ### Algorithm
 + Python
 
+### 아직 미숙하지만 구축해본 경험이 있는 기술
++ Spring batch
++ ELK를 사용한 로그 모니터링
++ Pinpoint를 사용한 모니터링
++ nGrinder를 사용한 부하테스트
+
+
 
 <br>
 
