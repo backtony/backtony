@@ -10,7 +10,7 @@
 + 안녕하세요! 몰입을 즐기는 백엔드 개발자 Backtony입니다.
 + 본래는 공학 공부를 하다가 우연한 기회로 코딩을 접하여, 지금은 하루 24시간이 모자라도록 개발에 푹 빠져있습니다.
 + 비전공자 시절부터 독학으로 공부한 내용을 하나씩 정리해 나가면서 기술 블로그를 운영하고 있습니다.
-+ 현재는 좋은 기회가 닿아 [SW 마에스트로 12기](https://swmaestro.org/sw/main/main.do)로 활동 중에 있습니다.
++ 현재는 좋은 기회가 닿아 [SW 마에스트로](https://swmaestro.org/sw/main/main.do) 12로 활동 중에 있습니다.
 
 ### ☎ Contact & Channel
 + Email | <a href="mailto:cjs1863@gmail.com" target="_blank">cjs1863@gmail.com</a>
