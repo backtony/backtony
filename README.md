@@ -36,28 +36,23 @@
 
 
 ## 🛠 Skills
+아래 나열한 기술의 대부분을 [프로젝트](https://github.com/backtony/SW-Maestro-gjgs) 에서 사용했습니다. 자세한 내용은 해당 프로젝트의 README 를 참고부탁드립니다.  
+
 ### Backend
 + Java
-+ Redis
 + Spring Boot, Spring MVC, Spring Data JPA
 + JPA, Querydsl
 + Junit5, Mockito
 + Swagger, REST docs
 + Gradle
-+ IntelliJ, Visual Studio Code
++ IntelliJ
 + Git
 
 ### DevOps
-+ AWS EC2, S3, RDS, CodeDeploy, VPC, Auto Scaling, Load Balancer, CloudWatch, Route 53
 + MySQL
-+ Jenkins, Travis CI
-+ Docker
++ Redis 클러스터 구축 및 Spring 연동 경험
++ EC2, VPC, AutoScaling, Load Balancer, Jenkins + CodeDeploy Blue/Green, S3, CloudWatch, ELK(단순 로그 모니터링 용도), RDS, Docker 를 활용한 AWS 전체적 환경 구축 경험
 
-### Collaboration
-+ Jira
-
-### Algorithm
-+ Python
 
 
 
