@@ -53,8 +53,8 @@
 + MySQL
 + [Redis](https://backtony.github.io/redis/) 클러스터 구축 및 Spring 연동 경험
 + EC2, VPC, AutoScaling, Load Balancer, Jenkins + CodeDeploy Blue/Green, S3, CloudWatch, ELK(단순 로그 모니터링 용도), RDS, Docker 를 활용한 AWS 전체적 환경 구축 경험
- - [구축 포스팅](https://backtony.github.io/spring/aws/2021-08-28-spring-cicd-3/)
- - [실제 프로젝트 적용 구조](https://github.com/backtony/SW-Maestro-gjgs#structure)
+  + [구축 포스팅](https://backtony.github.io/spring/aws/2021-08-28-spring-cicd-3/)
+  + [실제 프로젝트 적용 구조](https://github.com/backtony/SW-Maestro-gjgs#structure)
 
 
 
