@@ -9,7 +9,7 @@
 ### 💁‍♂️ Introduction
 + 안녕하세요! 몰입을 즐기는 백엔드 개발자 Backtony입니다.
 + 본래는 공학 공부를 하다가 우연한 기회로 코딩을 접하여, 지금은 하루 24시간이 모자라도록 개발에 푹 빠져있습니다.
-+ 비전공자 시절부터 독학으로 공부한 내용을 하나씩 정리해 나가면서 [기술 블로그](https://backtony.github.io/)를 운영하고 있습니다.
++ 비전공자 시절에는 제 자신을 증명하기 위해서, 현재는 머릿속 지식을 정리하고 기록하기 위해서 [기술 블로그](https://backtony.github.io/)를 운영하고 있습니다.
 + 현재는 좋은 기회가 닿아 [SW 마에스트로](https://swmaestro.org/sw/main/main.do) 12로 활동 중에 있습니다.
 
 ### ☎ Contact & Channel
@@ -51,8 +51,10 @@
 
 ### DevOps
 + MySQL
-+ Redis 클러스터 구축 및 Spring 연동 경험
++ [Redis](https://backtony.github.io/redis/) 클러스터 구축 및 Spring 연동 경험
 + EC2, VPC, AutoScaling, Load Balancer, Jenkins + CodeDeploy Blue/Green, S3, CloudWatch, ELK(단순 로그 모니터링 용도), RDS, Docker 를 활용한 AWS 전체적 환경 구축 경험
+ - [구축 포스팅](https://backtony.github.io/spring/aws/2021-08-28-spring-cicd-3/)
+ - [실제 프로젝트 적용 구조](https://github.com/backtony/SW-Maestro-gjgs#structure)
 
 
 
