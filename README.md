@@ -24,6 +24,7 @@
 ### Backend
 + Java
 + Spring Boot, Spring MVC, Spring Data JPA
++ Spring Batch
 + JPA, Querydsl
 + Junit5, Mockito
 + Swagger, REST docs
