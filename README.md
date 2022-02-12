@@ -47,7 +47,7 @@
 ## ✏ 학력 & 활동 
 + 세종대학교 컴퓨터공학과 (2021 ~ 현재 4학년 재학중)
   - 학점 (4.3 / 4.5)
-+ [SW 마에스트로 12기](https://swmaestro.org/sw/main/main.do) (2021.3 ~ 2021.11)
++ [SW 마에스트로](https://swmaestro.org/sw/main/main.do) 12기 (2021.3 ~ 2021.11)
 + San Diego State University 전공 연수 (2020.1 ~ 2020.2)  
 + 세종대학교 기계공학과 (2019 ~ 2020)  
   - 학과 수석 장학생 3회 
