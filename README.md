@@ -8,7 +8,7 @@
 + 안녕하세요! 몰입을 즐기는 백엔드 개발자 Backtony(최준성)입니다.
 + 무엇보다 꾸준함의 진정한 가치를 알기에 1일 1커밋 운동을 하고 있습니다.
 + 함께 성장하기 위한 기술 공유를 중요하게 생각하여 [기술 블로그](https://backtony.github.io/)를 운영하고 있습니다. 
-+ [Clean Code](https://github.com/backtony/clean-code)와 쿼리 최적화에 대한 고민을 생활화합니다.
++ [Clean Code](https://github.com/backtony/clean-code)와 [쿼리 최적화](https://backtony.github.io/jpa/2021-10-04-jpa-querydsl-6/)에 대한 고민을 생활화합니다.
 + 현재는 [SW 마에스트로](https://swmaestro.org/sw/main/main.do) 12기를 수료하고 기초부터 되돌아보는 시간을 가지고 있습니다.
 
 <br>
