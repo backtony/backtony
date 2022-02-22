@@ -2,7 +2,7 @@
  <img src="https://github.com/backtony/backtony.github.io/blob/master/assets/img/readmelogo.gif" alt="my-logo" height="140" width="1000">
 </div>
 
-
+[Click Here! 노션 포트폴리오로 오시면 더 자세한 내용을 확인하실 수 있습니다.](https://cultured-caravel-ab9.notion.site/56b3e838efbd47c495d674104f674494)
 
 ## 💁‍♂️ Introduction
 + 안녕하세요! 몰입을 즐기는 백엔드 개발자 Backtony(최준성)입니다.
