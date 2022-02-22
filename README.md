@@ -39,9 +39,6 @@
   + [구축 포스팅](https://backtony.github.io/spring/aws/2021-08-28-spring-cicd-3/)
   + [실제 프로젝트 적용 구조](https://github.com/backtony/SW-Maestro-gjgs#structure)
 
-### Tools
-+ IntelliJ
-+ Git
 
 <br>
 
