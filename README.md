@@ -23,7 +23,7 @@
 아래 나열한 기술의 대부분을 [프로젝트](https://github.com/backtony/SW-Maestro-gjgs)에서 사용했습니다. 자세한 내용은 해당 프로젝트의 README를 참고 부탁드립니다.  
 
 ### Backend
-+ Java
++ Java, Python
 + Spring Boot, Spring MVC, Spring Data JPA
 + Spring Batch
 + JPA, Querydsl
