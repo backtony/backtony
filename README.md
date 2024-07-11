@@ -4,7 +4,7 @@
   
 
 
-✨ *For More Info...* **[BLOG](https://backtony.tistory.com)** | **[RESUME](https://cultured-caravel-ab9.notion.site/56b3e838efbd47c495d674104f674494)**
+✨ *For More Info...* **[BLOG](https://backtony.tistory.com)** | **[RESUME](https://backtony.github.io)**
 
 **Naver Webtoon (2022.06 ~ now)**  
 
