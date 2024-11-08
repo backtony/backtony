@@ -6,8 +6,8 @@
 
 ✨ *For More Info...* **[BLOG](https://backtony.tistory.com)** | **[RESUME](https://backtony.github.io)**
 
-
-Naver Webtoon (2022.06 ~)
+Naver Webtoon (2024.11 ~)
+Naver Webtoon (2022.06 ~2024.10)
 
 ![Backtony's github stats](https://github-readme-stats.vercel.app/api?username=backtony&show_icons=true&theme=merko)
 
